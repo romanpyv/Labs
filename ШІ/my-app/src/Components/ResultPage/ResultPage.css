@@ -1,0 +1,4 @@
+.img-container {
+    height: 50vh !important;
+    object-fit: contain !important;
+}

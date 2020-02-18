@@ -1,0 +1,31 @@
+.home-bg {
+    position: relative;
+    background-image: url("../../assets/download.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh - 45px);
+}
+
+.home-title-container {
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    color: white;
+}
+
+.start-btn {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    color: white;
+    margin: 0 auto;
+}
+
+.page-content {
+    margin-top: 30px;
+}
+
+h1{
+    margin-top: 0;
+}
